@@ -14,4 +14,4 @@ To get started:
         a. Select the gcc kit from the dropdown menu when prompted.
         b. Select whether to automatically configure cmake tools when opening the directory.
     6. Press F1 and type/select CMake: Build.
-
+    7. Press F5 to launch and debug the main executable.
