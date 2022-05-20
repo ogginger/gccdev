@@ -1,7 +1,7 @@
 {
     "version": "0.2.0",
     "configurations": [{
-        "name": "Launch - Project (gdb)",
+        "name": "Launch - Main (gdb)",
         "type": "cppdbg",
         "request": "launch",
         "program": "${workspaceFolder}/build/main",
