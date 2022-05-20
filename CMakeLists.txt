@@ -1,8 +1,6 @@
 cmake_minimum_required(VERSION 3.10)
+set(CMAKE_CXX_STANDARD 17)
 
 #Enter your project name.
-project("main")
-
-add_executable("${PROJECT_NAME}" "src/main.cpp")
-
-install(TARGETS "${PROJECT_NAME}" DESTINATION bin)
+project(main)
+add_executable(main "src/main.cpp")
